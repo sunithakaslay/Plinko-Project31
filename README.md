@@ -1,2 +1,2 @@
-# Plinko-Project31
-Represents the Plinko pegs and particles falling into buckets.
+# p5.play-boilerplate
+Boiler plate for p5.play
